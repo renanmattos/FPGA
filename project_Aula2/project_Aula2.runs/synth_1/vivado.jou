@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.1 (64-bit)
+# SW Build 881834 on Fri Apr  4 14:15:54 MDT 2014
+# IP Build 877625 on Fri Mar 28 16:29:15 MDT 2014
+# Start of session at: Mon Oct 26 22:36:55 2015
+# Process ID: 6912
+# Log file: C:/Users/15.83118-3/Documents/project_Aula2/project_Aula2.runs/synth_1/Conversoes.vds
+# Journal file: C:/Users/15.83118-3/Documents/project_Aula2/project_Aula2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Conversoes.tcl
